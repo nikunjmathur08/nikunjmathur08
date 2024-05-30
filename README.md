@@ -24,3 +24,8 @@
   <!--Python-->
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
 </p>
+
+<p align='center'>
+<a href="https://github.com/nikunjmathur08/Portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=Portfolio&theme=noctis_minimus" /></a>&nbsp; 
+<a href="https://github.com/nikunjmathur08/Pomodoro-Timer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=Pomodoro-Timer&theme=noctis_minimus" /></a>
+</p>
