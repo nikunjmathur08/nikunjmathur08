@@ -26,6 +26,6 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/nikunjmathur08/Portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=Portfolio&theme=noctis_minimus" /></a>&nbsp; 
+<a href="https://github.com/nikunjmathur08/evinco"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=evinco&theme=noctis_minimus" /></a>&nbsp; 
 <a href="https://github.com/nikunjmathur08/Pomodoro-Timer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=Pomodoro-Timer&theme=noctis_minimus" /></a>
 </p>
