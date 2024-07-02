@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nikunj</h1>
+<h1 align="center">Hi there, I'm Nikunj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h1>
 <p align='center'>
   <a href="https://www.instagram.com/nikunjmathur08/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
