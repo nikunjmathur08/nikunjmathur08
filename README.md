@@ -9,8 +9,8 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunjmathur08&show_icons=true&count_private=true&theme=noctis_minimus" height="150"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjmathur08&layout=compact&theme=noctis_minimus" height="150" />
+  <img align="center" src="https://nikunj-github-readme.vercel.app/api?username=nikunjmathur08&show_icons=true&count_private=true&theme=noctis_minimus&cache_bust=1" height="150"/>
+  <img align="center" src="https://nikunj-github-readme.vercel.app/api/top-langs/?username=nikunjmathur08&layout=compact&theme=noctis_minimus" height="150" />
 </p>
 
 <h3 align="center">My Skills:</h3>
