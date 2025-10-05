@@ -9,8 +9,8 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://nikunj-github-readme.vercel.app/api?username=nikunjmathur08&show_icons=true&count_private=true&theme=noctis_minimus&cache_bust=1" height="150"/>
-  <img align="center" src="https://nikunj-github-readme.vercel.app/api/top-langs/?username=nikunjmathur08&layout=compact&theme=noctis_minimus" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunjmathur08&show_icons=true&count_private=true&theme=noctis_minimus&cache_bust=1" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjmathur08&layout=compact&theme=noctis_minimus" height="150" />
 </p>
 
 <h3 align="center">My Skills:</h3>
@@ -21,6 +21,8 @@
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
   <!--JavaScript-->
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
+  <!--TypeScript-->
+  <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=blue"></a>&nbsp;
   <!--React-->
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61dbfb"></a>&nbsp;
   <!--MongoDB-->
