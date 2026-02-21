@@ -9,8 +9,8 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunjmathur08&show_icons=true&count_private=true&theme=noctis_minimus&cache_bust=1" height="150"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjmathur08&layout=compact&theme=noctis_minimus" height="150" />
+  <img align="center" src="https://raw.githubusercontent.com/nikunjmathur08/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="150"/>
+  <img align="center" src="https://raw.githubusercontent.com/nikunjmathur08/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="150" />
 </p>
 
 <h3 align="center">My Skills:</h3>
@@ -31,9 +31,4 @@
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/express%20-%23323330.svg?&style=for-the-badge&logo=express&logoColor=%61dbfb"></a>&nbsp;
   <!--Python-->
   <a href="https://github.com/nikunjmathur08"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
-</p>
-
-<p align='center'>
-<a href="https://github.com/nikunjmathur08/not-RISK"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=not-RISK&theme=noctis_minimus" /></a>&nbsp; 
-<a href="https://github.com/nikunjmathur08/evinco"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjmathur08&repo=evinco&theme=noctis_minimus" /></a>
 </p>
