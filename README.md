@@ -1,29 +1,20 @@
 <h1 align="center">Hi there, I'm Nikunj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h1>
-<p align='center'>
-  <a href="https://www.instagram.com/nikunjmathur08/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
-  <a href="https://www.linkedin.com/in/nikunjmathur08/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<p align="center">
+  building <a href="https://github.com/kalaa-studio">Kalaa Studio</a> &#183; swift student challenge '26 winner &#183; cs @ srm, class of '27
 </p>
 
-<p align='center'>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikunjmathur08/"><img alt="LinkedIn" src="https://img.shields.io/badge/nikunjmathur08-000000?style=for-the-badge&labelColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="></a>
+  <a href="https://www.instagram.com/nikunjmathur08/"><img alt="Instagram" src="https://img.shields.io/badge/nikunjmathur08-000000?style=for-the-badge&labelColor=FFFFFF&logo=instagram&logoColor=black"></a>
+  <a href="https://x.com/nikunjmathur08"><img alt="X" src="https://img.shields.io/badge/nikunjmathur08-000000?style=for-the-badge&labelColor=FFFFFF&logo=x&logoColor=black"></a>
+</p>
+
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/nikunjmathur08/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="150"/>
   <img align="center" src="https://raw.githubusercontent.com/nikunjmathur08/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="150" />
 </p>
 
 <p align="center">
-  <!-- Swift -->
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <!-- Next.js -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <code>swift</code> <code>swiftui</code> <code>javascript</code> <code>react</code> <code>next.js</code> <code>node.js</code> <code>python</code>
 </p>
