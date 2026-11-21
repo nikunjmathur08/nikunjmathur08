@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikunj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h1>
 
 <p align="center">
-  building <a href="https://github.com/kalaa-studio">Kalaa Studio</a> &#183; swift student challenge '26 winner &#183; cs @ srm, class of '27
+  building <a href="https://kalaastudio.in">Kalaa Studio</a> &#183; swift student challenge '26 winner &#183; cs @ srm, class of '27
 </p>
 
 <p align="center">
